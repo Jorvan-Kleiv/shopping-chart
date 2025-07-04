@@ -12,7 +12,6 @@ A modern, e-commerce web application built with Vue 3 and TypeScript, focused on
 - **Shopping Cart**: Add products to cart, view cart items, and see total amount
 - **Persistent Cart**: Cart data is saved between sessions
 - **Responsive Design**: Built with TailwindCSS for a responsive and modern UI
-- **Internationalization Support**: Language switching capability (French/English)
 
 ## Technologies Used
 
@@ -34,7 +33,7 @@ A modern, e-commerce web application built with Vue 3 and TypeScript, focused on
 1. Clone the repository:
    ```sh
    git clone https://github.com/jorvan-kleiv/chart-ecom.git
-   cd chart-ecom
+   cd shopping-chart
    ```
 
 2. Install dependencies:
