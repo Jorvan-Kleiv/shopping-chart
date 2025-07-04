@@ -1,0 +1,20 @@
+/* color palette from <https://github.com/vuejs/theme> */
+@font-face {
+  font-family: Geist;
+  src: url('./fonts/Geist/Geist-VariableFont_wght.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Geist-mono;
+  src: url('./fonts/Geist_Mono/GeistMono-VariableFont_wght.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  box-sizing: border-box;
+}
+@theme {
+  --font-mono: Geist-mono;
+  --font-sans: Geist;
+}
