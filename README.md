@@ -111,3 +111,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Link of the project
 
 - Visit the official [Shopping chart Application](https://myshopping-chart.vercel.app/) here
+## Nb of Contributors
+This app is not responsive for mobile devices and just for desktop. this is just a demo.
