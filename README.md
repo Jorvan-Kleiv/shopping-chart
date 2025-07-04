@@ -103,7 +103,7 @@ chart-ecom/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## Link of the project
-- Visit here the [Shopping chart Application](https://myshopping-chart.vercel.app/)
+- Visit the official [Shopping chart Application](https://myshopping-chart.vercel.app/) here
 ## Acknowledgments
 
 - Icons provided by [Lucide](https://lucide.dev/)
