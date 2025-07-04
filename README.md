@@ -32,7 +32,7 @@ A modern, e-commerce web application built with Vue 3 and TypeScript, focused on
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/jorvan-kleiv/chart-ecom.git
+   git clone https://github.com/jorvan-kleiv/shopping-chart.git
    cd shopping-chart
    ```
 
